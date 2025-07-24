@@ -12,7 +12,7 @@
 |        **BE**         |        **FE**         |        **BE**         |       **DESIGNER**       |
 |:---------------------:|:---------------------:|:---------------------:|:------------------------:|
 |       김민주          |        김혜림         |        이예니         |         이예랑           |
-| <img src="https://avatars.githubusercontent.com/u/183798149?v=4" width="160"/>  |  <img src="https://avatars.githubusercontent.com/u/163461154?v=4" width="160">  |     | |
+| <img src="https://avatars.githubusercontent.com/u/175408359?v=4" width="160"/>  |  <img src="https://avatars.githubusercontent.com/u/163461154?v=4" width="160">  |     | |
 | [calla1102](https://github.com/calla1102) | [kimhyerim01](https://github.com/kimhyerim01)                      |[LeeYeni](https://github.com/LeeYeni)                         |                          |
 | 로그인 및 일기 관련 기능 담당 개발자 | 투첵의 모든 화면과 UX 담당 개발자 | 투두 리스트 및 카테고리 구현한 개발자 | 서비스를 시각적으로 표현하는 디자이너 |
 
